@@ -1,4 +1,2 @@
 # GitHubMiniLesson
-# GitHubMiniLesson
-# GitHubMiniLesson
-# GitHubMiniLesson
+Testing GitHub
